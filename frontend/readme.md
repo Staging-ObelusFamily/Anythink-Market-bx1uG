@@ -27,4 +27,4 @@ Make sure your server is up and running to serve requests.
   - Show basic user info
   - List of items populated from seller's items or user favorite items
 
-test2
+test
